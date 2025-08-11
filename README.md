@@ -31,9 +31,9 @@
 
 <!-- Fun fact or vibe -->
 ## 🎀 Fun Facts
-- ✨ My code runs on coffee, pastel aesthetics, and good playlists
-- 🧁 I enjoy making things both **functional** and **adorable**
-- 💡 Motto: *"Why make it boring when you can make it cute?"*
+- 🌸 I love blending **technology and creativity** to bring ideas to life  
+- 🧁 I enjoy creating things that are both **functional** and **adorable**  
+- 📖 *"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."* — Colossians 3:23  
 
 ---
 
